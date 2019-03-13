@@ -41,10 +41,10 @@ msgid "%s in privacy donations!"
 msgstr "%s lahjoituksia yksityisyyteen!"
 
 msgid "%s km"
-msgstr ""
+msgstr "km"
 
 msgid "%s mi"
-msgstr ""
+msgstr "mi"
 
 #. This is used to add attribution to user reviews on websites, e.g. "John Doe on Yelp"
 msgctxt "maps_places"
@@ -110,7 +110,7 @@ msgstr "Hylkää ATB"
 
 msgctxt "settings"
 msgid "ATB related (not displayed on settings page)"
-msgstr ""
+msgstr "ATB:hen liittyvää (ei näy asetukset sivulla)"
 
 #. In the new DDG website, this token appears as the Tab name for Instant Answers that give general information about a subject. eg. https://duckduckgo.com/?q=Sony
 #. It is not "About DuckDuckGo".
@@ -195,7 +195,7 @@ msgstr "Mainokset"
 #. http://i.imgur.com/ZG0Mz3R.png
 msgctxt "settings"
 msgid "Advertisements"
-msgstr "mainonta"
+msgstr "Mainonta"
 
 #. https://duckduckgo.com/params near the top under "Interface Settings"
 msgid "Advertisements:"
@@ -207,7 +207,7 @@ msgstr "Klikkaa latauksen ja avaamisen jälkeen %sAsenna%s"
 msgid ""
 "After it downloads, locate the extension file and double-click it to install"
 msgstr ""
-"Latauksen jälkeen, mene lisäosan tiedoston siantiin, ja tupla klikkaa "
+"Latauksen jälkeen, mene lisäosa tiedoston sijaintiin, ja tuplaklikkaa "
 "asentaaksesi sen"
 
 msgid "All"
@@ -222,7 +222,7 @@ msgid "All Layouts"
 msgstr "Kaikki ulkoasut"
 
 msgid "All Places"
-msgstr "Kaikki Paikat"
+msgstr "Kaikki paikat"
 
 msgid "All Regions"
 msgstr "Kaikki alueet"
@@ -240,7 +240,7 @@ msgstr "Kaikki koot"
 
 msgctxt "image-type"
 msgid "All Types"
-msgstr "Kaikki Tyypit"
+msgstr "Kaikki tyypit"
 
 msgctxt "install-duckduckgo"
 msgid "Almost there!"
@@ -325,8 +325,8 @@ msgid ""
 "As per our privacy policy, we do not collect or share any personal "
 "information ourselves. All of this privacy protection happens on your device."
 msgstr ""
-"Tietosuojakäytäntömme mukaisesti emme kerää tai jaa henkilökohtaisia "
-"tietoja. Kaikki tämä yksityisyyden suoja tapahtuu laitteellasi."
+"Tietosuojakäytäntömme mukaisesti me emme kerää tai jaa henkilökohtaisia "
+"tietojasi. Kaikki tämä yksityisyyden suoja tapahtuu laitteellasi."
 
 msgctxt "homepage ATB modal"
 msgid "At DuckDuckGo, we agree."
@@ -336,7 +336,7 @@ msgid "Audio"
 msgstr "Ääni"
 
 msgid "Australia"
-msgstr ""
+msgstr "Austraalia"
 
 msgid "Austria"
 msgstr "Itävalta"
@@ -410,7 +410,7 @@ msgstr "Bang komento, esim. %s (tavallisesti jokin domain nimi kuten %s)"
 #. Subcategory
 msgctxt "Newbang"
 msgid "Bang url"
-msgstr ""
+msgstr "Bang url-osoite"
 
 #. https://duckduckgo.com/newbang
 #. The following required fields were not filled:
@@ -421,7 +421,7 @@ msgstr ""
 #. Subcategory
 msgctxt "newbang"
 msgid "Bang url"
-msgstr "Bang-osoite"
+msgstr "Bang url-osoite"
 
 #. https://duckduckgo.com/newbang
 #. e.g.: Bang url, e.g. http://duckduckgo.com/?q={{{s}}} 
@@ -430,7 +430,7 @@ msgstr "Bang-URL, esim. %s"
 
 #. This text always refers to the DuckDuckGo bangs function: https://duckduckgo.com/bang 
 msgid "Bangs"
-msgstr ""
+msgstr "Bangsit"
 
 #. Instant Answer tab name
 msgid "Barcode"
@@ -456,7 +456,7 @@ msgstr "Paras saatavuus"
 
 #. In the right menu panel of the homepage.
 msgid "Beta"
-msgstr ""
+msgstr "Beta-versio"
 
 msgctxt "video-duration"
 msgid "Between 4 and 20 minutes"
@@ -475,7 +475,7 @@ msgid "Black and White"
 msgstr "Mustavalkoinen"
 
 msgid "Block Trackers"
-msgstr "Estä jäljittäjät"
+msgstr "Estä seuraajat"
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "Block advertising trackers."
@@ -669,7 +669,7 @@ msgid "Child sexual abuse"
 msgstr "Lapsen seksuaalinenhyväksikäyttö"
 
 msgid "Chile"
-msgstr ""
+msgstr "Chile"
 
 msgid "China"
 msgstr "Kiina"
@@ -731,14 +731,14 @@ msgid ""
 "Click %sEdit > Preferences%s (on Windows) %sSeaMonkey > Preferences%s (on "
 "Mac)"
 msgstr ""
-"Napsauta %s Edit > Preferences%s (Windowsissa) %sSeaMonkey > Preferences%s "
+"Klikkaa %s Muokkaa > Asetukset%s (Windowsissa) %sSeaMonkey > Asetukset%s "
 "(Macilla)"
 
 msgid "Click %sHere%s to add us as a search engine"
 msgstr "Klikkaa %sTästä%s lisätäksesi meidät hakukoneeksi"
 
 msgid "Click %sHere%s to download the DuckDuckGo extension"
-msgstr "Napsauta %sTästä%s lataaksesi DuckDuckGo lisäosan"
+msgstr "Klikkaa %sTästä%s ladataksesi DuckDuckGo lisäosan"
 
 msgid ""
 "Click %sOK%s in the popup. %sNOTE%s: If OK button is disabled, it was "
@@ -748,17 +748,17 @@ msgstr ""
 "jo lisätty. Klikkaa %sKumoa%s ja siirry seuraavaan vaiheeseen."
 
 msgid "Click %sOpen%s to download and open the DuckDuckGo Safari extension"
-msgstr "Klikkaa %sAvaa%s lataaksesi, ja avatalsesi DuckDuckGo Safari lisäosan"
+msgstr "Klikkaa %sAvaa%s lataaksesi, ja avataksesi DuckDuckGo:n Safari lisäosan"
 
 msgid ""
 "Click %sSafari%s in the top menu (On Windows, click the %sgears icon%s in "
 "the top right)"
 msgstr ""
-"Napsauta %sSafari%s yläältä valikosta (Ikkunassa, napsauta %svaihda kuvaketta"
+"Napsauta %sSafari%s ylävalikosta (Ikkunassa, napsauta %svaihda kuvaketta"
 "%s ylhäältä oikealta)"
 
 msgid "Click %sSettings%s"
-msgstr "Klikkaa %sSettings%s"
+msgstr "Klikkaa %sAsetukset%s"
 
 msgid "Click %sUse current pages%s then %sClick OK%s."
 msgstr "Klikkaa %sKäytä nykyisiä sivuja%s ja sen jälkeen %spaina OK%s"
@@ -803,7 +803,7 @@ msgid "Click on the magnifying glass in the search box at the top right"
 msgstr "Klikkaa suurennuslasia hakulaatikosta oikeasta yläkulmasta"
 
 msgid "Click the %s icon in the top toolbar"
-msgstr "Napsauta %s kuvaketta ylhäältä työkalupalkista"
+msgstr "Klikkaa %s kuvaketta ylhäältä työkalupalkista"
 
 #. Instructions to add a search engine in Microsoft Edge
 msgid "Click the %s...%s icon at the top right:"
@@ -816,19 +816,19 @@ msgid "Click the Duck icon at the top of your browser to search!"
 msgstr "Siirry hakuun klikkaamalla sivun yläreunassa olevaa Duck-kuvaketta!"
 
 msgid "Click the Expand Icon."
-msgstr ""
+msgstr "Klikkaa suurentaaksesi ikonia."
 
 msgid "Click the Search Engine Icon in the Address Bar."
-msgstr ""
+msgstr "Klikkaa hakukone-kuvaketta osoiterivilläsi."
 
 msgid "Click the arrow to the right of the %shome icon%s"
-msgstr "Napsauta nuolta oikealta puolelta %skoti kuvakkeesta%s"
+msgstr "Klikkaa nuolta oikealta puolelta %skoti kuvakkeesta%s"
 
 msgid "Click the drop down in the search box"
-msgstr "Napsauta avattavaa hakukenttää"
+msgstr "Klikkaa avattavaa hakukenttää"
 
 msgid "Click the magnifying glass in the search bar"
-msgstr "Paina suurennuslasia hakupalkissa"
+msgstr "Klikkaa suurennuslasia hakupalkissa"
 
 msgid ""
 "Click the magnifying glass in the search box (at the top of the browser)"
@@ -845,7 +845,7 @@ msgstr "Laajenna klikkaamalla"
 
 msgctxt "image-type"
 msgid "Clipart"
-msgstr "piirros"
+msgstr "Piirros"
 
 msgid "Close window."
 msgstr "Sulje ikkuna."
@@ -876,7 +876,7 @@ msgstr "Pilvitallennus päällä"
 #. Self informative <em>Cloud Save FAQ</em> title for the FAQ about how your settings data can be stored anonymously.  
 msgctxt "cloudsave"
 msgid "Cloud Save FAQ"
-msgstr "Pilvitallennuksen UKK"
+msgstr "Pilvitallennuksen ohje"
 
 #. Expand the Cloud Save box - http://i.imgur.com/1OudbYX.png
 #. At the bottom of the box - http://i.imgur.com/U79ETEb.png
@@ -890,7 +890,7 @@ msgid ""
 "Cloud Save lets you save your settings more permanently by entering a "
 "passphrase. It is entirely optional."
 msgstr ""
-"Pilvitallennus mahdollistaa asetuksiesi tallentamisen pysyvämmin syöttämällä "
+"Pilvitallennus mahdollistaa asetuksiesi tallentamisen pysyvästi syöttämällä "
 "tunnuslauseen. Se on täysin vapaaehtoista."
 
 msgid "Colombia"
@@ -969,7 +969,7 @@ msgstr "Alennuskupongit"
 
 msgctxt "video-license"
 msgid "Creative Commons"
-msgstr ""
+msgstr "Creative Commons"
 
 msgctxt "attribution"
 msgid "Credits"
@@ -988,7 +988,7 @@ msgstr "Nykyinen paikka"
 #. http://i.imgur.com/n6W3M3I.png
 msgctxt "settings"
 msgid "Custom"
-msgstr "muokattu"
+msgstr "Muokattu"
 
 #. Custom --> 'customized'
 #. A setting that *you* choose and is not a default. 
@@ -1005,7 +1005,7 @@ msgid "Custom %s"
 msgstr "Kustomoitu %s"
 
 msgid "Czech Republic"
-msgstr "Tsekki"
+msgstr "Tsekin tasavalta"
 
 #. A theme name in the theme menu:
 #. https://duck.co/media/files/theme.png
@@ -1018,7 +1018,7 @@ msgid "Dark"
 msgstr "Tumma"
 
 msgid "Data Privacy Day 2018"
-msgstr "Tietosuoja Päivä 2018"
+msgstr "Tietosuojapäivä 2018"
 
 #. Instant Answer tab name
 msgid "Date"
@@ -1066,7 +1066,7 @@ msgstr "Sanakirja"
 #. "customize" will link to the /settings page.
 msgctxt "frontpage"
 msgid "Did you know you can %scustomize%s DuckDuckGo?"
-msgstr "Tiesitkö että voit %spersonalisoida%s DuckDuckGota?"
+msgstr "Tiesitkö että voit %spersonoida%s DuckDuckGota?"
 
 #. Used in spelling correction, e.g. <a href="https://duckduckgo.com/?q=testingg">https://duckduckgo.com/?q=testingg</a>
 msgid "Did you mean %s?"
@@ -1117,7 +1117,7 @@ msgstr "Etkö näe DuckDuckGo:ta listassa?"
 
 msgctxt "install-extension"
 msgid "Don't see it? %s%s%sClick here to re-download%s"
-msgstr "Lataus ei näy? %s%s%sKlikkaa tästä uudelleenladataksesi%s"
+msgstr "Lataus ei näy? %s%s%sKlikkaa tästä ladataksesi uudelleen%s"
 
 msgid "Don't see the checkbox? %sFollow these steps%s."
 msgstr "Valintaruutu ei näy? %sSeuraa näitä askeleita%s."
@@ -1165,15 +1165,15 @@ msgstr "DuckDuckGo uusi !Bang"
 
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/privacy.html">privacy page</a>.
 msgid "DuckDuckGo Privacy"
-msgstr "DuckDuckGo-Yksityisyys"
+msgstr "DuckDuckGo Yksityisyys"
 
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/search_box.html">search box page</a>.
 msgid "DuckDuckGo Search Box"
-msgstr "DuckDuckGo-Hakukenttä"
+msgstr "DuckDuckGo Hakukenttä"
 
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/settings.html">settings page</a>.
 msgid "DuckDuckGo Settings"
-msgstr "DuckDuckGo-asetukset"
+msgstr "DuckDuckGo asetukset"
 
 #. Link to the settings help in support center from the cloud save section.
 #. You have to click the "What is this?" link to display the link (that is contained on the bottom of a huge paragraph).
@@ -1194,11 +1194,11 @@ msgstr "DuckDuckGo ei koskaan tiedä tunnuslausettasi."
 
 #. Used as a link to your personal settings  into the sentence <em>You can change *DuckDuckGo settings* via URL parameters by adding them after the search query</em>. See the <a href="https://duckduckgo.com/params.html">params page</a>.
 msgid "DuckDuckGo settings"
-msgstr "DuckDuckGo-asetukset"
+msgstr "DuckDuckGo asetukset"
 
 msgctxt "forecast"
 msgid "E"
-msgstr ""
+msgstr "E"
 
 #. Stuff explaining <em>how does passphrase generation work</em>.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
@@ -1295,7 +1295,7 @@ msgid "Explicit content"
 msgstr "Sopimaton sisältö"
 
 msgid "Extensions & More"
-msgstr "Laajennukset & muuta"
+msgstr "Laajennukset & Muuta"
 
 msgctxt "size"
 msgid "Extra Large"
@@ -1343,7 +1343,7 @@ msgid "Find %sDuckDuckGo%s and click%sMake default%s"
 msgstr "Löydä %sDuckDuckGo%s ja %saseta oletushakukoneeksi%s"
 
 msgid "Find DuckDuckGo in the displayed list and click %sMake Default%s"
-msgstr "Etsi DuckDuckGo näyttöön luettelosta ja napsauta%sTee Oletus%s"
+msgstr "Etsi DuckDuckGo luettelosta ja klikkaa%sTee Oletus%s"
 
 msgctxt "showcase_privacy"
 msgid "Find useful privacy advice on our blog."
@@ -1362,17 +1362,17 @@ msgstr "Lennot"
 
 msgctxt "new user poll"
 msgid "Following us on Twitter"
-msgstr "Seuraatko meitä Twitterissä"
+msgstr "Seuraatko jo meitä Twitterissä"
 
 #. http://i.imgur.com/JWnlmmo.png
 msgctxt "settings"
 msgid "Font"
-msgstr "fontti"
+msgstr "Fontti"
 
 #. http://i.imgur.com/rBFnfUF.png
 msgctxt "settings"
 msgid "Font Size"
-msgstr "fontin koko"
+msgstr "Fontin koko"
 
 msgid "For region-centric results"
 msgstr "Saat aluekeskeiset tulokset"
@@ -1390,7 +1390,7 @@ msgid "GET requests"
 msgstr "GET-pyynnöt"
 
 msgid "Game ended"
-msgstr "Peli loppui"
+msgstr "Peli päättyi"
 
 msgid "Games"
 msgstr "Pelit"
@@ -1432,7 +1432,7 @@ msgstr "Saa Vinkkejä Yksityisyyteen"
 
 msgctxt "SERP footer content"
 msgid "Get Started at Duck.com"
-msgstr ""
+msgstr "Pääse alkuun Duck.com:issa"
 
 msgid "Get Web links"
 msgstr "Hae linkkejä"
@@ -1446,7 +1446,7 @@ msgstr "Hanki kappale täältä:"
 
 msgctxt "SERP footer content"
 msgid "Get to DuckDuckGo faster. Share duck.com with your friends."
-msgstr ""
+msgstr "Pääse DuckDuckGo:hon nopeammin. Jaa duck.com ystävillesi."
 
 msgctxt "spread_badge"
 msgid "Get your friends to switch and help us grow!"
@@ -1456,7 +1456,7 @@ msgid "Go to Options."
 msgstr "Mene asetuksiin."
 
 msgid "Go to Search Engine."
-msgstr "Mene hakukoneeseen"
+msgstr "Mene hakukoneisiin"
 
 #. Part of the sentence: "<b>Goodies</b> and no tracking." (used for limited browsers, mobile and co.)
 msgctxt "shortbelieve"
@@ -1472,7 +1472,7 @@ msgid "Gray"
 msgstr "Harmaa"
 
 msgid "Greece"
-msgstr "Kreikka"
+msgstr "kreikka"
 
 #. <em>kj</em>'s, <em>ky</em>'s and <em>kx</em>'s labels for the header, highlight and URLs color settings query parameters caption into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Green"
@@ -1492,11 +1492,11 @@ msgstr "Ruututila ei ole saatavilla tälle vastaukselle"
 #. http://i.imgur.com/LHG4IZQ.png
 msgctxt "settings"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #. <em>kh</em>'s label for one of the privacy settings query parameters into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "HTTPS:"
-msgstr ""
+msgstr "HTTPS"
 
 msgctxt "settings"
 msgid "Header Appearance"
@@ -1572,7 +1572,7 @@ msgid "Homepage Privacy Tips"
 msgstr "Etusivun Yksityisyysvinkit"
 
 msgid "Hong Kong"
-msgstr ""
+msgstr "Hong Kong"
 
 msgctxt "maps_places"
 msgid "Hours"
@@ -1580,7 +1580,7 @@ msgstr "Tunti"
 
 msgctxt "SERP footer content"
 msgid "How We Are Profitable"
-msgstr ""
+msgstr "Miten olemme tuottava yritys"
 
 #. Title for the stuffs explaining <em>how to change your passphrase</em>.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
@@ -1613,7 +1613,7 @@ msgstr "Kuinka se voi olla anonyymiä?"
 
 msgctxt "forecast"
 msgid "Humidity"
-msgstr ""
+msgstr "Ilmankosteus"
 
 msgid "Hungary"
 msgstr "Unkari"
@@ -1630,11 +1630,11 @@ msgstr "Minun täytyy ilmoittaa viasta!"
 
 #. https://duckduckgo.com/feedback
 msgid "I want to tell you about something I don't love."
-msgstr "Minun täytyy kertoa sinulle asiasta, josta en pidä."
+msgstr "Minä haluan kertoa asiasta, josta en pidä."
 
 #. https://duckduckgo.com/feedback
 msgid "I want to tell you about something I love."
-msgstr "Haluaisin kertoa sinulle eräästä rakastamastani asiasta."
+msgstr "Haluaisin kertoa eräästä rakastamastani asiasta."
 
 #. One of the options for feedback: https://duckduckgo.com/feedback
 msgid "I'd like to report bad relevancy."
@@ -1707,7 +1707,7 @@ msgid ""
 "In the browser, we then select four or five random words from that list, "
 "ensuring that it is at least 18-20 characters long."
 msgstr ""
-"Valitsemme neljästä viiteen satunnaista sanaa listasta selaimessamme, "
+"Valitsemme neljästä viiteen satunnaista sanaa listasta selaimessa, "
 "varmistaen että ne ovat vähintään 18-20 merkkiä pitkiä."
 
 msgid "In the drop down select %sDuckDuckGo%s!"
@@ -1743,10 +1743,10 @@ msgid "India"
 msgstr "Intia"
 
 msgid "Indonesia"
-msgstr ""
+msgstr "Indoneesia"
 
 msgid "Indonesia (en)"
-msgstr "Indonesia (englanti)"
+msgstr "Indoneesia (englanti)"
 
 msgid "Install"
 msgstr "Asenna"
@@ -1761,7 +1761,7 @@ msgstr "Asenna DuckDuckGo"
 
 #. On the homepage, after clicking "use in Safari" http://i.imgur.com/rhp7iTI.png
 msgid "Install DuckDuckGo Safari Extension?"
-msgstr "Asenna DuckDuckGon Safari-lisäosa? "
+msgstr "Asenna DuckDuckGo:n Safari-lisäosa? "
 
 #. in https://duckduckgo.com/api/, topmost header
 msgid "Instant Answer API"
@@ -1803,7 +1803,7 @@ msgid "Is someone working on your zero-click plugin?"
 msgstr "Onko jollakin työn alla teidän zero-click liitännäinen?"
 
 msgid "Israel"
-msgstr ""
+msgstr "Israel"
 
 #. https://duckduckgo.com/settings near the bottom, under "Cloud Save", by clicking "What's this", under "How does passphrase generation work?"
 msgctxt "cloudsave"
@@ -1858,7 +1858,7 @@ msgid "Keyboard Shortcuts"
 msgstr "Pikanäppäimet"
 
 msgid "Korea"
-msgstr ""
+msgstr "Korea"
 
 #. http://i.imgur.com/L74c87B.png 
 #. Adjusts the displayed language of DuckDuckGo (translations)
@@ -1879,7 +1879,7 @@ msgstr "Suuri"
 #. http://i.imgur.com/gwulPSF.png
 msgctxt "settingsvalue"
 msgid "Larger"
-msgstr "isompi"
+msgstr "Isompi"
 
 #. http://i.imgur.com/n8wzFYd.png
 msgctxt "size"
@@ -1898,7 +1898,7 @@ msgid "Largest"
 msgstr "Suurin"
 
 msgid "Latvia"
-msgstr ""
+msgstr "Latvia"
 
 #. Button that opens more informations in the new messagebox suggesting to add DDG, in the homepage.
 msgid "Learn %sMore%s"
@@ -1920,7 +1920,7 @@ msgstr "Opi Bangsistä"
 
 msgctxt "SERP footer content"
 msgid "Learn About DuckDuckGo"
-msgstr "Lue DuckDuckGosta"
+msgstr "Lue DuckDuckGo:sta"
 
 msgctxt "showcase_bangs"
 msgid "Learn about Bangs"
@@ -2045,7 +2045,7 @@ msgid "Make sure all words are spelled correctly."
 msgstr "Tarkista, että kaikki sanat on kirjoitettu oikein."
 
 msgid "Make sure to check %s\"Make this my default search provider\"%s"
-msgstr "Tarkasta %s\"Tee tästä oletus hakupalveluni\"%s"
+msgstr "Tarkista %s\"Tee tästä oletus hakupalveluni\"%s"
 
 msgid "Malaysia"
 msgstr "Malesia"
@@ -2104,7 +2104,7 @@ msgstr "Valikko"
 
 msgctxt "settingsvalue"
 msgid "Metric (Kilograms, Meters, Celsius)"
-msgstr "Metrijärjestelmä (kilogrammat, metrit, Celsius-asteet)"
+msgstr "Metrijärjestelmä (Kilogrammat, Metrit, Celsius-asteet)"
 
 msgid "Mexico"
 msgstr "Meksiko"
@@ -2116,7 +2116,7 @@ msgstr "Keskellä"
 
 msgctxt "settings"
 msgid "Mobile Instructions (not displayed on settings page)"
-msgstr ""
+msgstr "Mobiiliohjeet (ei näy asetuksissa)"
 
 msgctxt "safe search"
 msgid "Moderate"
@@ -2207,7 +2207,7 @@ msgstr "Elokuvat"
 #. in https://duckduckgo.com/newbang under "Choose Category"
 msgctxt "bangcat"
 msgid "Multimedia"
-msgstr ""
+msgstr "Multimedia"
 
 msgid "Music"
 msgstr "Musiikki"
@@ -2290,7 +2290,7 @@ msgstr "Uutisartikkelit"
 #. Click "Reset All Settings" first on the settings page - http://i.imgur.com/3ucg9el.png
 #. Then - http://i.imgur.com/1wBBIxW.png
 msgid "No"
-msgstr "ei"
+msgstr "Ei"
 
 msgctxt "noresults"
 msgid "No %s found for %s%s%s."
@@ -2335,7 +2335,7 @@ msgstr "Ei kiitos."
 
 msgctxt "homepage onboarding"
 msgid "No tracking, no ad targeting, just searching!"
-msgstr "Ei seurantaa, ei kohdennettua mainontaa, vain hakemista!"
+msgstr "Ei seurantaa, ei kohdennettua mainontaa, vain hakuja!"
 
 msgctxt "homepage onboarding"
 msgid "No tracking, no ad targeting, just searching."
@@ -2384,7 +2384,7 @@ msgid "Nutrition"
 msgstr "Ravitsemus"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "mobile promotion on desktop"
 msgid "OK, got it!"
@@ -2469,14 +2469,14 @@ msgstr "Avaa %sValikko > Asetukset > Hakukone%s ja valitse DuckDuckGo! "
 
 msgctxt "mobile homepage banner"
 msgid "Open %sMenu%s"
-msgstr "Avaa %sMenu%s"
+msgstr "Avaa %sValikko%s"
 
 msgid "Open %sSettings > Safari > Search Engine%s and select DuckDuckGo!"
 msgstr "Avaa %sAsetukset> Safari > Hakukone%s ja valitse DuckDuckGo!"
 
 msgctxt "mobile homepage banner"
 msgid "Open %sSettings%s"
-msgstr "Avaa %sSettings%s"
+msgstr "Avaa %sAsetukset%s"
 
 msgctxt "maps_places"
 msgid "Open Expanded Map"
@@ -2498,7 +2498,7 @@ msgstr "Avaa sovelluksessa %s"
 #. http://i.imgur.com/MnvQ0IK.png
 msgctxt "settingsvalue"
 msgid "Open on third-party site"
-msgstr "avaa kolmannen osapuolen sivu"
+msgstr "Avaa kolmannen osapuolen sivu"
 
 #. http://i.imgur.com/iCNwHqR.png  
 #. This setting controls how results open when you click on them. 
@@ -2508,7 +2508,7 @@ msgstr "Avaa tulokset uuteen ikkunaan/välilehteen"
 
 msgctxt "feedback form"
 msgid "Optional"
-msgstr ""
+msgstr "Vapaaehtoinen"
 
 msgctxt "maps_maps_module"
 msgid "Or did you mean:"
@@ -2625,7 +2625,7 @@ msgid "Past Year"
 msgstr "Kulunut vuosi"
 
 msgid "Peru"
-msgstr ""
+msgstr "Peru"
 
 msgid "Philippines"
 msgstr "Filippiinit"
@@ -2731,7 +2731,7 @@ msgstr "Esikatselu"
 
 msgctxt "settings"
 msgid "Previous Region"
-msgstr "edellinen alue"
+msgstr "Edellinen alue"
 
 #. In the top menu under Settings ("More" > "Privacy")
 msgid "Privacy"
@@ -2760,7 +2760,7 @@ msgid "Privacy Newsletter"
 msgstr "Yksityisyys Uutiskirje"
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Tietosuojaseloste"
 
 #. https://duckduckgo.com/params. it is a bold header
 msgid "Privacy Settings"
@@ -2862,7 +2862,7 @@ msgid "Red"
 msgstr "Punainen"
 
 msgid "Reddit"
-msgstr ""
+msgstr "Reddit"
 
 msgctxt "settings"
 msgid "Redirect (when necessary)"
@@ -2910,7 +2910,7 @@ msgstr "Tutkimus"
 
 msgctxt "cloudsave"
 msgid "Reset All Settings"
-msgstr "Resetoi kaikki asetukset"
+msgstr "Palauta kaikki asetukset"
 
 #. http://i.imgur.com/ktBWbzB.png 
 #. Resets your configuration 
@@ -2983,14 +2983,14 @@ msgstr "Tulosten ulkoasu"
 #. Selecting "Retro" will change the look and layout of DuckDuckGo to resemble the old site: http://i.imgur.com/toYUxqn.png 
 msgctxt "theme"
 msgid "Retro"
-msgstr ""
+msgstr "Retro"
 
 #. Used in 0-click box for product results, e.g. <a href="https://duckduckgo.com/?q=9780061353246">https://duckduckgo.com/?q=9780061353246</a>
 msgid "Reviews"
 msgstr "Arvostelut"
 
 msgid "Romania"
-msgstr ""
+msgstr "Romania"
 
 msgid "Russia"
 msgstr "Venäjä"
@@ -3105,11 +3105,11 @@ msgid "Search Options"
 msgstr "Hakuasetukset"
 
 msgid "Search Results"
-msgstr "Haun Tulokset"
+msgstr "Haun tulokset"
 
 #. Le terme apparait en survolant le terme "More from ..." sur la page de résultats.
 msgid "Search domain %s"
-msgstr "Hae sivustossa %s"
+msgstr "Hae sivustosta %s"
 
 msgid "Search only for %s?"
 msgstr "Etsi vain %s?"
@@ -3124,11 +3124,11 @@ msgstr ""
 
 msgctxt "showcase_bangs"
 msgid "Search thousands of sites directly on DuckDuckGo."
-msgstr "Hae tuhansia sivuja suoraan DuckDuckGolla."
+msgstr "Hae tuhansia sivuja suoraan DuckDuckGo:lla."
 
 #. Message displayed sometimes at top of results (for bang syntax), e.g. <a href="https://duckduckgo.com/?q=twitter+test">https://duckduckgo.com/?q=twitter+test</a>
 msgid "Searches %s using our %s"
-msgstr "Etsi %s käyttäen %s"
+msgstr "Hae %s käyttäen %s"
 
 #. in https://duckduckgo.com/feedback under "Community Platform" header
 msgid "Searching for info on our XMPP chat service?"
@@ -3140,7 +3140,7 @@ msgstr "Turvallisuusongelma"
 
 msgctxt "feedback form"
 msgid "Security Issue (Opens in New Tab)"
-msgstr "Tietoturva-aukko avautuu uuteen ikkunaan)"
+msgstr "Tietoturva-aukko (avautuu uuteen ikkunaan)"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then at the bottom of the cloud save box - http://i.imgur.com/4Jo3jAf.png
@@ -3204,7 +3204,7 @@ msgstr ""
 msgid ""
 "Select %sOpera > Preferences%s (on Mac) or %sOpera > Options%s (on Windows)"
 msgstr ""
-"Valitse %sOpera > Preferences%s (Mac:illa) tai %sOpera > Options%s (Windows:"
+"Valitse %sOpera > Valinnat%s (Mac:illa) tai %sOpera > Valikko%s (Windows:"
 "illa)"
 
 msgid "Select %sPreferences%s."
@@ -3212,29 +3212,29 @@ msgstr "Valitse %sAsetukset%s"
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSearch Engine%s"
-msgstr ""
+msgstr "Valitse %sHakukone%s"
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSearch engine%s, then %sOthers...%s"
-msgstr ""
+msgstr "Valitse %sHakukone%s, sitten &sMuut...%s"
 
 msgid "Select %sSettings%s"
 msgstr "Valitse %sAsetukset%s"
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSettings%s"
-msgstr ""
+msgstr "Valitse %sAsetukset%S"
 
 msgid "Select %sSettings%s from the drop-down menu."
 msgstr "Valitse pudotusvalikosta %sAsetukset%s."
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSettings%s, then %sAdvanced settings%s"
-msgstr ""
+msgstr "Valitse %sAsetukset%s, sitten %Lisäasetukset%s"
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSettings%s, then %sDefault search engine%s"
-msgstr ""
+msgstr "Valitse %sAsetukset%s, sitten %sOletushakukone%s"
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSettings%s, then %sSearch Engine%s"
@@ -3424,7 +3424,7 @@ msgid "Similar"
 msgstr "Samankaltaisia"
 
 msgid "Singapore"
-msgstr ""
+msgstr "Singapore"
 
 msgctxt "settings"
 msgid "Site Icons"
@@ -3451,10 +3451,10 @@ msgid "Size:"
 msgstr "Koko:"
 
 msgid "Slovakia"
-msgstr ""
+msgstr "Slovakia"
 
 msgid "Slovenia"
-msgstr ""
+msgstr "Slovenia"
 
 #. http://i.imgur.com/JDDRzkk.png
 msgctxt "settingsvalue"
@@ -3614,10 +3614,10 @@ msgid "Switzerland (it)"
 msgstr "Sveitsi (italia)"
 
 msgid "TV"
-msgstr ""
+msgstr "TV"
 
 msgid "Taiwan"
-msgstr ""
+msgstr "Taiwan"
 
 #. Recupera Tu Privacidad!
 msgid "Take Back Your Privacy!"
@@ -3672,6 +3672,9 @@ msgid ""
 "link is at increased risk of being intercepted by a third party. In rare "
 "cases this includes passwords, or payment details."
 msgstr ""
+"Tämä tarkoittaa laitteen ja tämän verkkosivun välillä lähetettyä dataa ja tässä "
+"linkissä on lisääntynyt riski, että kolmas osapuoli tekee niin. Joissain tapauksissa "
+"tämä sisältää salasanat ja maksutiedot."
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/elru00b.png
@@ -3718,7 +3721,7 @@ msgstr "Hakukone, joka ei seuraa sinua. %sLearn More%s"
 
 msgctxt "SERP footer content"
 msgid "The world needs an alternative to the collect-it-all business model."
-msgstr ""
+msgstr "Maailma tarvitsee vaihtoehdon kerää kaikki mahdollinen business mallille."
 
 #. Title for the theme menu:
 #. https://duck.co/media/files/theme.png
@@ -3770,7 +3773,7 @@ msgstr "Tämä sivusto vaatii Javascriptin toimiakseen."
 
 msgctxt "Lock icon next to HTTP search result"
 msgid "This webpage does not use a secure, encrypted, connection (HTTPS)."
-msgstr ""
+msgstr "Tämä verkkosivu ei käytä turvallista, salattua yhteyttä (HTTPS)."
 
 #. In spanish: Esto borrará todos los ajustes. ¿Desea continuar?
 msgctxt "settings"
@@ -3847,7 +3850,7 @@ msgid "Turn off:"
 msgstr "Poista käytöstä:"
 
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 msgid "Type %sDuckDuckGo%s in the first %sform field"
 msgstr "Syötä %sDuckDuckGo%s ensimmäiseen %slomakkeen kenttään"
@@ -3898,7 +3901,7 @@ msgid "Under %sSearch in the address bar with%s select %sAdd New%s"
 msgstr "%sSearch in the address bar with%s ssa valitse %sAdd New%s"
 
 msgid "Under %sSearch%s section, click %sManage search engines...%s"
-msgstr "%sSearch%s osion alla, paina %sManage search engines...%s"
+msgstr "%sHaku%s osion alla, paina %sHallitse hakukoneita...%s"
 
 msgid "Under On startup select %sOpen a specific page or set of pages%s"
 msgstr "Käynnistäessä %sAvaa tietty sivu tai sivuja%s"
@@ -3919,7 +3922,7 @@ msgstr "Alleviivaus:"
 
 #. Instant Answer tab name
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 msgid "United Kingdom"
 msgstr "Yhdistynyt kuningaskunta"
@@ -3976,7 +3979,7 @@ msgid "Videos"
 msgstr "Videot"
 
 msgid "Vietnam"
-msgstr ""
+msgstr "Vietnam"
 
 msgid "View all !bangs"
 msgstr "Näytä kaikki !bangit"
@@ -4020,7 +4023,7 @@ msgstr "Katso YouTubessa"
 
 msgctxt "SERP footer content"
 msgid "We Protect Your Privacy"
-msgstr ""
+msgstr "Me suojaamme yksityisyytesi"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/vBsbibl.png
@@ -4055,11 +4058,11 @@ msgstr ""
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't follow you around with ads."
-msgstr "Emme luo mainoksia hakutietojesi perusteella."
+msgstr "Me emme seuraa sinua mainoksin."
 
 msgctxt "settings"
 msgid "We don't store your location. It remains only on your device. %sInfo%s"
-msgstr "Emme tallenna sijaintiasi. Se pysyy vain laitteellasi. %sTietoja%s"
+msgstr "Me emme tallenna sijaintiasi. Se pysyy vain laitteellasi. %sTietoja%s"
 
 msgctxt "homepage onboarding"
 msgid "We don't store your personal info or track you. Ever."
@@ -4067,15 +4070,15 @@ msgstr "Me emme tallenna henkilökohtaisia tietojasi, tai seuraa sinua. Ikinä."
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't store your personal info."
-msgstr "Emme säilytä henkilökohtaisia tietojasi."
+msgstr "Me emme säilytä henkilökohtaisia tietojasi."
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't store your personal information."
-msgstr "Emme kerää henkilökohtaisia tietoja."
+msgstr "Me emme kerää henkilökohtaisia tietoja."
 
 msgctxt "SERP footer content"
 msgid "We don't store your search history or follow you around the web."
-msgstr ""
+msgstr "Me emme säilytä hakuhistoriaasi tai seuraa sinua ympäri interttiä."
 
 msgctxt "SERP footer content"
 msgid "We don't track you, but others do."
@@ -4083,14 +4086,14 @@ msgstr "Me emme seuraa sinua, mutta muut seuraavat."
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't track you, including private browsing mode."
-msgstr "Emme jäljitä tietojasi, myöskään yksityisessä tilassa."
+msgstr "Me emme seuraa sinua, myös yksityisessä selaustilassa."
 
 msgctxt "new user poll"
 msgid ""
 "We don't track you, so we could use your help telling us what brought you "
 "back today:"
 msgstr ""
-"Emme seuraa sinua, joten voimme käyttää sinun apuasi kertoen meille, mikä "
+"Me emme seuraa sinua, joten voimme käyttää sinun apuasi kertoen meille, mikä "
 "toi sinut takaisin tänään:"
 
 msgctxt "new user poll"
@@ -4110,27 +4113,27 @@ msgstr "Me emme seuraa sinua. Ikinä"
 
 msgctxt "homepage onboarding"
 msgid "We don’t follow you around with ads."
-msgstr "Emme seuraile sinua mainoksin."
+msgstr "Me emme seuraa sinua mainoksin."
 
 msgctxt "homepage onboarding"
 msgid "We don’t store your personal info. Ever."
-msgstr "Emme koskaan säilytä sinun henkilökohtaisia tietojasi."
+msgstr "Me emme koskaan säilytä sinun henkilökohtaisia tietojasi."
 
 msgctxt "homepage onboarding"
 msgid "We don’t store your personal information. Ever."
-msgstr "Emme säilytä henkilökohtaisia tietojasi. Ikinä."
+msgstr "Me emme säilytä henkilökohtaisia tietojasi. Ikinä."
 
 msgctxt "homepage onboarding"
 msgid ""
 "We don’t store your search history. We therefore have nothing to sell to "
 "advertisers that track you across the internet."
 msgstr ""
-"Emme talleta etsintähistoriaasi. Meillä ei ole siten mitään myytävää "
+"Me emme tallenna hakuhistoriaasi. Meillä ei ole siten mitään myytävää "
 "mainostajille, jotka seuraavat sinua ympäri internetiä."
 
 msgctxt "homepage onboarding"
 msgid "We don’t track you in or out of private browsing mode."
-msgstr "Emme jäljitä sinua, käytitpä yksityistä selaustilaa tai et."
+msgstr "Me emme seuraa sinua, käytitpä yksityistä selaustilaa tai et."
 
 msgctxt "SERP footer content"
 msgid "We get a ton of searches, and all of them are anonymous."
@@ -4142,7 +4145,7 @@ msgctxt "cloudsave"
 msgid ""
 "We save the settings file on Amazon S3 using the generated key as the name."
 msgstr ""
-"Me talletamme tiedoston Amazonin S3:en käyttäen generoitua avainta "
+"Me tallennamme tiedoston Amazonin S3:en käyttäen generoitua avainta "
 "tiedostonimenä."
 
 msgctxt "feedback form"
@@ -4157,7 +4160,7 @@ msgstr "Olemme kunnioitettuja saada sinut mukaan Duckin puolelle"
 
 msgctxt "SERP footer content"
 msgid "We've got some more links for you!"
-msgstr "Meillä on lisää linkkejä sinulle!"
+msgstr "Meillä on lisää tuloksia sinulle!"
 
 #. Instant Answer Tab Name
 msgid "Weather"
@@ -4216,7 +4219,7 @@ msgstr "Missä sanotaan \"Kotisivu\" klikkaa %sAseta nykyiseksi etusivuksi%s"
 
 msgctxt "settings"
 msgid "Which third party source to use for directions"
-msgstr "Mitä kolmannen osapuolen lähdettä käyttää reittiohjeisiin"
+msgstr "Mitä kolmannen osapuolen lähdettä käytetään reittiohjeisiin"
 
 #. https://duckduckgo.com/params under "Color Settings" under "Header: " and under "Background: "
 msgid "White"
@@ -4256,11 +4259,11 @@ msgstr "Wikipedia info"
 
 msgctxt "forecast"
 msgid "Wind"
-msgstr ""
+msgstr "Tuuli"
 
 #. https://duckduckgo.com/feedback under "Community Platform" header
 msgid "Would you like to help develop the platform?"
-msgstr " Haluatko auttaa kehittämään alustaa?"
+msgstr "Haluatko auttaa kehittämään alustaa?"
 
 #. https://duckduckgo.com/params under "Color Settings" under "Highlight: "
 msgid "Yellow"
@@ -4329,7 +4332,7 @@ msgid ""
 "You're now searching with privacy. %sGet tips to reduce your footprint even "
 "more."
 msgstr ""
-"Nyt etsit yksityisessä tilassa. %sHanki vinkkejä, miten voit pienentää "
+"Olet nyt tekemässä hakuja yksityisesti. %sHanki vinkkejä, miten voit pienentää "
 "jalanjälkeäsi entisestään. "
 
 msgid ""
@@ -4340,7 +4343,7 @@ msgstr ""
 "Tieto täällä katsomistasi videoista päätyy siten Googlelle."
 
 msgid "YouTube Privacy Warning"
-msgstr "YouTuben yksityisyysvaroitus"
+msgstr "Yksityisyysvaroitus YouTubesta"
 
 msgctxt "video-license"
 msgid "YouTube Standard"
@@ -4348,7 +4351,7 @@ msgstr "YouTube-standardi"
 
 #. Floating text over a tick next to search results which indicates if a link has been visited.
 msgid "Your browser indicates if you've visited this link"
-msgstr "Selaimesi näyttää, oletko vieraillut linkissä"
+msgstr "Selaimesi näyttää, oletko vieraillut tällä sivustolla"
 
 msgctxt "homepage ATB modal"
 msgid "Your data shouldn’t be for sale."
@@ -4387,7 +4390,7 @@ msgid ""
 "Your passphrase never leaves the browser, only the key and the settings file "
 "associated with it."
 msgstr ""
-"Tunnuslauseesi ei ikinä lähetetä selaimesi ulkopuolelle, vain avain ja "
+"Tunnuslausettasi ei ikinä lähetetä selaimesi ulkopuolelle, vain avain ja "
 "asetustiedosto jotka siihen liitetään."
 
 msgctxt "new user poll"
